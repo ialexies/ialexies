@@ -1,4 +1,16 @@
 
+# 🌐 Sample Projects: (Click to see the demo)
+### Supah Quickcommerce app
+[![Uber / Grab Clone Tutorial](https://img.youtube.com/vi/n3rDQo6g5CQ/0.jpg)](https://www.youtube.com/watch?v=n3rDQo6g5CQ&ab_channel=AlexiesIglesia)
+### Byahero Riding App
+[![Uber / Grab Clone Tutorial](https://img.youtube.com/vi/wCk2Hn34alw/0.jpg)](https://www.youtube.com/watch?v=wCk2Hn34alw&ab_channel=AlexiesIglesia)
+### Supah product picker app
+[![Uber / Grab Clone Tutorial](https://img.youtube.com/vi/zakVp_omUx0/0.jpg)](https://www.youtube.com/watch?v=zakVp_omUx0&ab_channel=AlexiesIglesia)
+### Admin Art Bidding App Management
+[![Uber / Grab Clone Tutorial](https://img.youtube.com/vi/yniEp0YPXI0/0.jpg)](https://www.youtube.com/watch?v=yniEp0YPXI0&ab_channel=AlexiesIglesia)
+### Crypto App using Coingecko
+[![Uber / Grab Clone Tutorial](https://img.youtube.com/vi/7nQJjfzwE0Q/0.jpg)](https://www.youtube.com/watch?v=7nQJjfzwE0Q&ab_channel=AlexiesIglesia)
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ialexies) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ialexies) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ialexies) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ialexies) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ialexies) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ialexies) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ialexies) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ialexies) 
 
